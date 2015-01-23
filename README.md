@@ -1,6 +1,6 @@
 #Alala A2
 
-![Alala from the side](https://github.com/jjjlllnnn/alala/blob/master/40_images/alala_01.jpg)
+![Alala from the side](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_01.jpg)
 
 
 A CNC cut paper rack made to store A2 portfolios. No screws nor nails nor glue needed, it's just a puzzle.
@@ -9,23 +9,23 @@ Can be scaled to make a rack holding bigger portfolios, just beware of the thick
 
 **Name:** Rack A2
 
-**Designers:** Martins Alice, Depins Alizée, [Landes Jérémy](http://jjllnn.fr)
+**Designers:** [Martins Alice](http://a2spaceater.tumblr.com/), [De Pin Alizée](http://www.alizeedepin.com/), [Landes Jérémy](http://jjllnn.fr)
 
-**Builders:** Martins Alice, Depins Alizée, [Landes Jérémy](http://jjllnn.fr), Rousseau Manon
+**Builders:** [Martins Alice](http://a2spaceater.tumblr.com/), [De Pin Alizée](http://www.alizeedepin.com/), [Landes Jérémy](http://jjllnn.fr), [Rousseau Manon](http://manonrousseau.tumblr.com/)
 
-**Realisation Place:** La nouvelle fabrique, Paris
+**Realisation Place:** [La Nouvelle Fabrique](http://www.nouvellefabrique.fr/), Paris
 
 **Required hardware:** CNC
 
-**Materials:** 1mm thick medium density fiberboard (MDF)
+**Materials:** 10 mm thick medium density fiberboard (MDF)
 
 **Advantage:** No screws, can be dismantled.
 
-**Licence:** Free Art Licence
+**Licence:** [Free Art Licence](http://artlibre.org/licence/lal/en/)
 
 **Design Date:** 01-2015
 
-![Alala](https://github.com/jjjlllnnn/alala/blob/master/40_images/Alala_02.jpg)
-![Alala](https://github.com/jjjlllnnn/alala/blob/master/40_images/Alala_03.jpg)
-![Alala](https://github.com/jjjlllnnn/alala/blob/master/40_images/Alala_04.jpg)
-![Alala](https://github.com/jjjlllnnn/alala/blob/master/40_images/Alala_05.jpg)
+![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_02.jpg)
+![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_03.jpg)
+![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_04.jpg)
+![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_05.jpg)
