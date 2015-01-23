@@ -1,6 +1,6 @@
 #Alala A2
 
-![Alala from the side](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_01.jpg)
+![Alala from the side](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_02.jpg)
 
 
 A CNC cut paper rack made to store A2 portfolios. No screws nor nails nor glue needed, it's just a puzzle.
@@ -25,7 +25,6 @@ Can be scaled to make a rack holding bigger portfolios, just beware of the thick
 
 **Design Date:** 01-2015
 
-![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_02.jpg)
+![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_01.jpg)
 ![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_03.jpg)
 ![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_04.jpg)
-![Alala](https://github.com/jjjlllnnn/Alala/blob/master/40%20images/Alala_05.jpg)
