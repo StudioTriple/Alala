@@ -7,7 +7,7 @@ A CNC cut paper rack made to store A2 portfolios. No screws nor nails nor glue n
 
 Can be scaled to make a rack holding bigger portfolios, just beware of the thickness of the material and the matching size of the notches.
 
-**Name:** Rack A2
+**Name:** Alala A2
 
 **Designers:** [Martins Alice](http://a2spaceater.tumblr.com/), [De Pin Alizée](http://www.alizeedepin.com/), [Landes Jérémy](http://jjllnn.fr)
 
